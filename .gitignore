@@ -1,3 +1,4 @@
 **/*.secret
-output
+**/*.db
 node_modules
+output
